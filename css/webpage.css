@@ -1,0 +1,39 @@
+
+.bankimg img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+  }
+  .headd h1 {
+    font-size: 45px;
+    text-align: center;
+    color: #000000;
+  }
+ 
+  .headd h2 {
+    font-size: 40px;
+    text-align: center;
+    color: #000000;
+  }
+  body {
+    color: white;
+    background: url(../images/bg.jpg);
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  
+  .active {
+    background-color: #000000ad;
+  }
+
+  .table tr {
+    color:white;
+  }
+  .py-2 {
+    align-content: center;
+  }
