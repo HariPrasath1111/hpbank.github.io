@@ -81,7 +81,7 @@ if (isset($_POST['submit'])) {
   <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 
-  <title>Potato Bank</title>
+  <title>Transfer</title>
   <link rel="shortcut icon" href="images/logo.png" type="image/x-icon">
   <script src="https://kit.fontawesome.com/c8e4d183c2.js" crossorigin="anonymous"></script>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
@@ -111,7 +111,7 @@ if (isset($_POST['submit'])) {
               <li><a href="#contact" class="nav-link px-2 text-white">Contact</a></li>
           </ul>
 
-          <a href="transfer.php?id=%201"><button type="button" class="btn btn-outline-light">TransferMoney</button></a>
+          <a href="viewusers.php"><button type="button" class="btn btn-outline-light">TransferMoney</button></a>
       </div>
   </div>
 </header>
