@@ -56,7 +56,7 @@
               <li><a href="#contact" class="nav-link px-2 text-white">Contact</a></li>
           </ul>
 
-          <a href="transfer.php?id=%201"><button type="button" class="btn btn-outline-light">TransferMoney</button></a>
+          <a href="viewusers.php"><button type="button" class="btn btn-outline-light">TransferMoney</button></a>
       </div>
   </div>
 </header>
